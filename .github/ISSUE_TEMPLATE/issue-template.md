@@ -8,11 +8,8 @@ assignees: ''
 ---
 
 *Là một* [role]
-*Tôi* [function]
+*Tôi muốn* [function]
 *Để* [benefits]
-
-### Details and Assumptions:
-* [document what you know]
 
 ### Acceptance Criteria:
 
